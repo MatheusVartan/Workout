@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611816309006",
+    "firebase_url": "https://workout-c30be.firebaseio.com",
+    "project_id": "workout-c30be",
+    "storage_bucket": "workout-c30be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611816309006:android:5c5a7eb4d57fdb07e3975f",
+        "android_client_info": {
+          "package_name": "com.matheus.workout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611816309006-v8lu122sb8in5lbgvsid7tnd62sracnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1QNDNJvt1G8th67wqjfh4gQ8EVZ8AMFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611816309006-v8lu122sb8in5lbgvsid7tnd62sracnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
